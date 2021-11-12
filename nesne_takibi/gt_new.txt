@@ -1,0 +1,2 @@
+frame_no,x,y,w,h,center_x,center_y
+0,477,274,40,31,497,289
